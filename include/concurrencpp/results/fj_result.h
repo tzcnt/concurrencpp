@@ -7,6 +7,7 @@
 #include "concurrencpp/results/impl/return_value_struct.h"
 
 #include <array>
+#include <atomic>
 #include <memory>
 #include <vector>
 #include <utility>

@@ -1,6 +1,7 @@
 #include "concurrencpp/executors/thread_pool_executor.h"
 
 #include <deque>
+#include <mutex>
 #include <semaphore>
 #include <algorithm>
 
